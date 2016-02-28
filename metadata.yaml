@@ -1,0 +1,26 @@
+_repo: Woman-and-the-New-Race_8660
+creator:
+  author:
+    agent_name: Sanger, Margaret
+    aliases:
+    - Higgins, Margaret Louisa
+    - Sanger, Margaret Higgins
+    birthdate: 1879
+    deathdate: 1966
+    gutenberg_agent_id: '693'
+    url: http://www.gutenberg.org/2009/agents/693
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Sanger
+description: ''
+gutenberg_issued: '2005-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8660'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Birth control'
+- !lcc 'HQ'
+title: Woman and the New Race
+url: http://www.gutenberg.org/ebooks/8660
