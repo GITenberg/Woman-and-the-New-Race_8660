@@ -1,4 +1,8 @@
 _repo: Woman-and-the-New-Race_8660
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sanger, Margaret
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/693
     wikipedia: http://en.wikipedia.org/wiki/Margaret_Sanger
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8660#Woman-and-the-New-Race
 gutenberg_issued: '2005-08-01'
 gutenberg_type: Text
 identifiers:
